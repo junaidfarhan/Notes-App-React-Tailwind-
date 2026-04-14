@@ -30,14 +30,6 @@ This app allows users to create, view, and delete notes with a clean and respons
 
 ---
 
-## 📸 Preview
-
-<!-- Add screenshot here -->
-
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Notes+App+Preview)
-
----
-
 ## 📂 Folder Structure
 
 ```
@@ -101,7 +93,7 @@ npm run dev
 
 **Your Name**
 
-* GitHub: https://github.com/your-username
+* GitHub: https://github.com/junaidfarhan
 * LinkedIn: (optional)
 
 ---
