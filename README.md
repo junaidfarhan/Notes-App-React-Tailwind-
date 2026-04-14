@@ -55,7 +55,7 @@ Follow these steps to run the project locally:
 git clone https://github.com/your-username/your-repo-name.git
 
 # Navigate to project folder
-cd your-repo-name
+cd Notes-App-React-Tailwind-
 
 # Install dependencies
 npm install
