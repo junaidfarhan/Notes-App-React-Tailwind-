@@ -5,12 +5,6 @@ This app allows users to create, view, and delete notes with a clean and respons
 
 ---
 
-## 🚀 Live Demo
-
-👉 (Add your deployed link here if available)
-
----
-
 ## ✨ Features
 
 * 📝 Add new notes (title + description)
